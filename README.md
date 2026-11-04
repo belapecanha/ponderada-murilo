@@ -52,7 +52,7 @@ Terminal:
 ![terminal](terminal.png)
 
 #### 4. Confronto código × mesa
-O código retorna custo mínimo de 37 km e rota S0 → S1 → S3 → S6, os mesmos valores que obtive no teste de mesa. Porém, a tabela do teste de mesa tem um pequeno erro na ordem de fechamento e nos antecessores finais, que não deu tempo de corrigir. A ordem correta, confirmada pelo código, é S0 → S1 → S2 → S3 → S4 → S5 → S6 → S7 (distâncias 0, 12, 21, 24, 34, 35, 37 e 47 km), e os antecessores finais são: S1←S0, S2←S0, S3←S1, S4←S3, S5←S2, S6←S3 e S7←S6.
+O código retorna custo mínimo de 37 km e rota S0 → S1 → S3 → S6, os mesmos valores que obtive no teste de mesa. Porém, a tabela do teste de mesa tem um pequeno erro que não deu tempo de arrumar 
 
 ## Etapa 4
 
