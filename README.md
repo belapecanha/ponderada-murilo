@@ -42,7 +42,7 @@ Destino -> S6
 - Esparcidade: o grafo é esparso com bastante nulos. 
 
 ## Etapa 2 — Teste de mesa de Dijkstra
-![tabela](TABELA2)
+![tabela](TABELA2.png)
 
 ## Etapa 3 — Implementação
 
