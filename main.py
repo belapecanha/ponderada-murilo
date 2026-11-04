@@ -24,7 +24,7 @@ pesos = [
 ]
 
 # pessos não negativos
-assert all(p >= 0 for _, _, p in pesos), "Existem pesos negativos!"
+assert all(p >= 0 for _, _, p in pesos), " tem pesos negativos"
 
 # grafo
 nos = ["S0", "S1", "S2", "S3", "S4", "S5", "S6", "S7"]
