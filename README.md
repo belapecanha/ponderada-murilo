@@ -52,7 +52,11 @@ Terminal:
 ![terminal](terminal.png)
 
 #### 4. Confronto código × mesa
+<<<<<<< HEAD
 O código retorna custo mínimo de 37 km e rota S0 → S1 → S3 → S6, os mesmos valores que obtive no teste de mesa.
+=======
+O código retorna custo mínimo de 37 km e rota S0 → S1 → S3 → S6, os mesmos valores que obtive no teste de mesa. Porém, a tabela do teste de mesa tem um pequeno erro que não deu tempo de arrumar 
+>>>>>>> b0fb8b8eabaa7f506edd22e51f594602b4c38250
 
 ## Etapa 4
 
